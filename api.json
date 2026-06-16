@@ -1,29 +1,95 @@
 {
-  "sports" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/sports.json",
-  "bangla" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/bangla.json",
-  "universal" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/channels.json",
-  "featured" : {
-    "name": "PROGRAMMING WORMHOLE HLS",
-    "logo": "https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/475814978_2426201957737793_1461147166847129481_n.jpg?stp=dst-jpg_tt6&cstp=mx884x897&ctp=s884x897&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFx9sri0jo3x6sTFqtX0lVzmYz5T9NZGW2ZjPlP01kZbVzr7fgaLWSVVK8G9gax0-6t7o1hNvgRDtVNqiwJHuQ8&_nc_ohc=NEnXZ2qab9AQ7kNvwGYhLg4&_nc_oc=Adqlkf-97u0u2PddOcRJ_j50wIym_k86-az0sNjI5-9d1l_AzFyUmjbv1voryJE6V-8&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=qYlQlH8iaOgfkm3qcS84cw&_nc_ss=7b2a8&oh=00_Af-O0uaaFNgdM3WngOPu_lcfxN8F6AFrX8_WFPr71RwZcw&oe=6A37642A",
-    "group": "FIFA WC 26",
-    "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-    "status": "live",
-    "verified_at": "2026-06-04T15:06:05.562027",
-    "status_code": 200,
-    "content_type": "application/x-mpegurl"
-  },
-  "carousel" : [
-    {
-      "tag_title" : "ফিচার্ড · Wormhole TV PRO অরিজিনাল",
-      "title_1" : "প্রিমিয়াম লাইভ টিভি",
-      "title_2" : "আপনার বড় পর্দায",
-      "subtitle" : "২০০+ লাইভ চ্যানেল, ৪K স্ট্রিমিং, খেলা–খবর–বিনোদন\n—সব কিছু একটাই অ্যাপে। প্রথম মাস বিনামূল্যে।",
-      "button_text_1" : "এখনি দেখুন",
-      "features" : [
-        "যেকোনো ডিভাইস",
-        "৪K + HDR",
-        "বিজ্ঞাপন ছাড়া",
+   "channels":{
+      "sports":[
+         {
+            "name":"CAZE TV",
+            "logo":"https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",
+            "group":"Sports",
+            "url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+            "status":"live",
+            "verified_at":"2026-06-04T15:06:07.595445",
+            "status_code":200,
+            "content_type":"application/vnd.apple.mpegurl"
+         },
+         {
+            "name":"CAZE TV (1080p)",
+            "logo":"https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png",
+            "group":"Sports",
+            "url":"https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+            "status":"live",
+            "verified_at":"2026-06-04T15:06:07.595445",
+            "status_code":200,
+            "content_type":"application/vnd.apple.mpegurl"
+         }
+      ],
+      "bangla":[
+         {
+            "name":"IN | TV9 Bangla",
+            "logo":"https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",
+            "group":"Bangla",
+            "url":"https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8",
+            "status":"live",
+            "verified_at":"2026-06-04T15:05:55.889793",
+            "status_code":200,
+            "content_type":"application/vnd.apple.mpegurl",
+            "id":"intv9bangla-33"
+         },
+         {
+            "name":"IN | R Plus News",
+            "logo":"https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png",
+            "group":"Bangla",
+            "url":"https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+            "status":"live",
+            "verified_at":"2026-06-04T15:05:56.469120",
+            "status_code":200,
+            "content_type":"application/vnd.apple.mpegurl",
+            "id":"inrplusnews-35"
+         },
+         {
+            "name":"News 24",
+            "logo":"https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png",
+            "group":"Bangla",
+            "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+            "id":"news24-494"
+         },
+         {
+            "name":"SOMOY NEWS",
+            "logo":"https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg",
+            "group":"Bangla",
+            "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+            "id":"bdsomoynews-18"
+         },
+         {
+            "name":"Jamuna TV",
+            "logo":"https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",
+            "group":"Bangla",
+            "url":"https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+            "id":"jamunatv-492"
+         }
       ]
-    }
-  ]
+   },
+   "featured":{
+      "name":"PROGRAMMING WORMHOLE HLS",
+      "logo":"https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/475814978_2426201957737793_1461147166847129481_n.jpg?stp=dst-jpg_tt6&cstp=mx884x897&ctp=s884x897&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFx9sri0jo3x6sTFqtX0lVzmYz5T9NZGW2ZjPlP01kZbVzr7fgaLWSVVK8G9gax0-6t7o1hNvgRDtVNqiwJHuQ8&_nc_ohc=NEnXZ2qab9AQ7kNvwGYhLg4&_nc_oc=Adqlkf-97u0u2PddOcRJ_j50wIym_k86-az0sNjI5-9d1l_AzFyUmjbv1voryJE6V-8&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=qYlQlH8iaOgfkm3qcS84cw&_nc_ss=7b2a8&oh=00_Af-O0uaaFNgdM3WngOPu_lcfxN8F6AFrX8_WFPr71RwZcw&oe=6A37642A",
+      "group":"FIFA WC 26",
+      "url":"https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
+      "status":"live",
+      "verified_at":"2026-06-04T15:06:05.562027",
+      "status_code":200,
+      "content_type":"application/x-mpegurl"
+   },
+   "carousel":[
+      {
+         "tag_title":"ফিচার্ড · Wormhole TV PRO অরিজিনাল",
+         "title_1":"প্রিমিয়াম লাইভ টিভি",
+         "title_2":"আপনার বড় পর্দায",
+         "subtitle":"২০০+ লাইভ চ্যানেল, ৪K স্ট্রিমিং, খেলা–খবর–বিনোদন\n—সব কিছু একটাই অ্যাপে। প্রথম মাস বিনামূল্যে।",
+         "button_text_1":"এখনি দেখুন",
+         "features":[
+            "যেকোনো ডিভাইস",
+            "৪K + HDR",
+            "বিজ্ঞাপন ছাড়া"
+         ]
+      }
+   ]
 }
