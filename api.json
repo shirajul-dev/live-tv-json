@@ -91,7 +91,33 @@
             "৪K + HDR",
             "বিজ্ঞাপন ছাড়া"
          ]
+      },
+      {
+         "background_image" : "https://raw.githubusercontent.com/shirajul-dev/live-tv-json/refs/heads/main/488063855_2477622655929056_5529270278858454056_n.jpg",
+         "tag_title":"ফিচার্ড · Wormhole TV PRO অরিজিনাল",
+         "title_1":"প্রিমিয়াম লাইভ টিভি",
+         "title_2":"আপনার বড় পর্দায",
+         "subtitle":"২০০+ লাইভ চ্যানেল, ৪K স্ট্রিমিং, খেলা–খবর–বিনোদন\n—সব কিছু একটাই অ্যাপে। প্রথম মাস বিনামূল্যে।",
+         "button_text_1":"এখনি দেখুন",
+         "features":[
+            "যেকোনো ডিভাইস",
+            "৪K + HDR",
+            "বিজ্ঞাপন ছাড়া"
+         ]
+      },
+      {
+         "background_image" : "https://raw.githubusercontent.com/shirajul-dev/live-tv-json/refs/heads/main/488063855_2477622655929056_5529270278858454056_n.jpg",
+         "tag_title":"ফিচার্ড · Wormhole TV PRO অরিজিনাল",
+         "title_1": "১০০% বাফারিং মুক্ত",
+         "title_2":"প্রিমিয়াম লাইভ টিভি",
+         "subtitle":"২০০+ লাইভ চ্যানেল, ৪K স্ট্রিমিং, খেলা–খবর–বিনোদন\n—সব কিছু একটাই অ্যাপে। প্রথম মাস বিনামূল্যে।",
+         "button_text_1":"দেখুন",
+         "features":[
+            "5 ডিভাইস",
+            "৪K + HDR",
+            "বিজ্ঞাপন থাকবে"
+         ]
       }
    ],
-   "card_background" : "https://images.unsplash.com/photo-1487954335942-047e6d1551ee?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   "card_background" : "https://raw.githubusercontent.com/shirajul-dev/live-tv-json/refs/heads/main/background.png"
 }
