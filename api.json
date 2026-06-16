@@ -1,0 +1,5 @@
+{
+  "sports" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/sports.json",
+  "bangla" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/bangla.json",
+  "universal" : "https://raw.githubusercontent.com/SHAJON-404/iptv/refs/heads/main/app/data/channels.json"
+}
